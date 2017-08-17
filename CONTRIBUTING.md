@@ -1,6 +1,6 @@
-# Contributing to Ibnmalk library
+# Contributing to Ibnmalik library
 
-Hi there! Thanks for your interest in contributing to [Ibnmalk](http://www.ibnmalk.araby360.org/).
+Hi there! Thanks for your interest in contributing to [Ibnmalik](/).
 In this document we'll try to summarize everything that you need to know to
 do a good job.
 
@@ -23,9 +23,9 @@ branches.
 Summary of our git branching model:
 - Fork the desired repository on GitHub to your account;
 - Clone your forked repository locally
-  (`git clone git@github.com:your-username:ibnmalk.git`);
+  (`git clone git@github.com:your-username:ibnmalik.git`);
 - Create a new branch off of `develop` with a descriptive name (for example:
-  `feature/stemming`, `hotfix/bug-on-ibnmalk`). You can
+  `feature/stemming`, `hotfix/bug-on-ibnmalik`). You can
   do it switching to `develop` branch (`git checkout develop`) and then
   creating a new branch (`git checkout -b name-of-the-new-branch`);
 - Do many small commits on that branch locally (`git add files-changed`,
@@ -60,7 +60,7 @@ Summary of our git branching model:
 - Always remember that [commented code is dead
   code](http://www.codinghorror.com/blog/2008/07/coding-without-comments.html);
 - All `#TODO` comments should be turned into issues (use our
-  [GitHub issue system](https://github.com/araby360/ibnmalk/issues));
+  [GitHub issue system](https://github.com/ibnmalik/ibnmalik/issues));
 - Run all tests before pushing, So you will know if your
   changes broke something;
 
@@ -76,7 +76,7 @@ the desired feature.
 
 [Our Channel]()
 
-Please feel free to contact us through the [Ibnmalk maintainer](https://github.com/araby360/ibnmalk/blob/develop/AUTHORS.md#original-authors) mail list if
+Please feel free to contact us through the [Ibnmalik maintainer](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md#original-authors) mail list if
 you have any questions or suggestions. Every contribution is very welcome!
 
 **Happy hacking! (;**

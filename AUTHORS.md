@@ -1,4 +1,4 @@
-Ibnmalk Authors
+Ibnmalik Authors
 ===============
 
 ## Original Authors

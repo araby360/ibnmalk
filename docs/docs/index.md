@@ -1,1 +1,1 @@
-# Welcome to Ibnmalk Docs
+# Welcome to Ibnmalik Docs

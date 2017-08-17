@@ -1,20 +1,20 @@
-# Ibnmalk Arabic Natural language toolkit
+# Ibnmalik Arabic Natural Language Processing toolkit
 
-Ibnmalk is a Pythonic library offers Arabic NLP functionalities such as (tokenizers, POS taggers, stopwords filter, stemmers/lemmatizers, etc. ).
+Ibnmalik is a Pythonic library offers Arabic NLP functionalities such as (tokenizers, POS taggers, stopwords filter, stemmers/lemmatizers, etc. ).
 
 ## Installing 
 
     
-        $ pip install ibnmalk
+        $ pip install ibnmalik
     
 
 ## Documentation
 
-For more details see [Ibnmalk docs](http://www.ibnmalk.araby360.org/docs).
+For more details see [Ibnmalik docs](/).
 
 ## How to contribute
 
-Do you want to contribute with Ibnmalk development? Great! Please read more details at [CONTRIBUTING](https://github.com/araby360/ibnmalk/blob/develop/CONTRIBUTING.md).
+Do you want to contribute with Ibnmalik development? Great! Please read more details at [CONTRIBUTING](https://github.com/ibnmalik/ibnmalik/blob/develop/CONTRIBUTING.md).
 
 ## Acknowledgments
 
@@ -24,8 +24,8 @@ Do you want to contribute with Ibnmalk development? Great! Please read more deta
 
 ## Copyright
 
-Copyright (C) 2017 [Araby360](http://www.araby360.org).
+Copyright (C) 2017 [Ibnmalik](/).
 
-For license information, see [LICENSE](https://github.com/araby360/ibnmalk/blob/develop/LICENSE).
+For license information, see [LICENSE](https://github.com/ibnmalik/ibnmalik/blob/develop/LICENSE).
 
-[AUTHORS](https://github.com/araby360/ibnmalk/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk.
+[AUTHORS](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk.
