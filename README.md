@@ -28,4 +28,4 @@ Copyright (C) 2017 [Ibnmalik](/).
 
 For license information, see [LICENSE](https://github.com/ibnmalik/ibnmalik/blob/develop/LICENSE).
 
-[AUTHORS](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk.
+[AUTHORS](https://github.com/ibnmalik/ibnmalik/blob/develop/AUTHORS.md) have a list of everyone contributed to Ibnmalk
